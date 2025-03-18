@@ -21,7 +21,8 @@ benefits to outweigh the introduced delays for most use cases.
 
 ## Publications
 
-- pending…
+- Zemanek, S., Tauchert, S., Ufer, M.J., Bruckschen, L. (2024). **Web Content Integrity: Tamper-Proof Websites Beyond HTTPS**.  
+  In: Meyer, N., Grocholewska-Czuryło, A. (eds) ICT Systems Security and Privacy Protection. SEC 2023. IFIP Advances in Information and Communication Technology, vol 679. Springer, Cham. <https://doi.org/10.1007/978-3-031-56326-3_1>
 
 
 ## Questions & Answers
